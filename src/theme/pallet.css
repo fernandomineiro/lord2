@@ -1,0 +1,20 @@
+.input{
+    margin: 2% 5% 5% 10%;
+    width: 80%;
+    border: 1px solid black;
+    padding-left: 20px !important; 
+    position: relative;
+    border-radius: 5px;
+    height: 10px;
+}
+
+.buttonQuery {
+    display:block;
+    width: 90%;
+    left: 5%;
+    position: 5%;
+    margin-top: 5%;
+    height: 10%;
+    font-weight: bold;
+    font-size: 20;
+}

@@ -1,0 +1,43 @@
+.button{
+    position: relative;
+    text-align: center;
+}
+
+.titleLogin{
+    background-color: white;
+    font-size: 18px;
+    color: black;
+    border: none;
+}
+
+.input{
+    margin: 2% 5% 5% 10%;
+    width: 80%;
+    border: 1px solid black;
+    padding-left: 20px !important; 
+    position: relative;
+    border-radius: 5px;
+    height: 10%;
+}
+
+.buttonLogin{
+    width: 200px;
+    font-weight: bold;
+    font-size: 18px;
+ 
+}
+
+.menuItens{
+    position: relative;
+    margin-left: 5%;
+    width: 90%;
+    border: 1px solid black;
+    margin-top: 5%;
+    ;
+
+}
+
+.menuPallete{
+    position: relative;
+    height: 100%;
+}
